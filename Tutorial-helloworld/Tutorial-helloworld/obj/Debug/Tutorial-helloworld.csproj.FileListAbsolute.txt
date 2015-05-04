@@ -1,0 +1,6 @@
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-helloworld\Tutorial-helloworld\bin\Debug\Tutorial-helloworld.exe.config
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-helloworld\Tutorial-helloworld\bin\Debug\Tutorial-helloworld.exe
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-helloworld\Tutorial-helloworld\bin\Debug\Tutorial-helloworld.pdb
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-helloworld\Tutorial-helloworld\obj\Debug\Tutorial-helloworld.csprojResolveAssemblyReference.cache
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-helloworld\Tutorial-helloworld\obj\Debug\Tutorial-helloworld.exe
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-helloworld\Tutorial-helloworld\obj\Debug\Tutorial-helloworld.pdb

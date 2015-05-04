@@ -1,0 +1,6 @@
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-TokenParser\Tutorial-TokenParser\bin\Debug\Tutorial-TokenParser.exe.config
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-TokenParser\Tutorial-TokenParser\obj\Debug\Tutorial-TokenParser.csprojResolveAssemblyReference.cache
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-TokenParser\Tutorial-TokenParser\bin\Debug\Tutorial-TokenParser.exe
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-TokenParser\Tutorial-TokenParser\bin\Debug\Tutorial-TokenParser.pdb
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-TokenParser\Tutorial-TokenParser\obj\Debug\Tutorial-TokenParser.exe
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-TokenParser\Tutorial-TokenParser\obj\Debug\Tutorial-TokenParser.pdb

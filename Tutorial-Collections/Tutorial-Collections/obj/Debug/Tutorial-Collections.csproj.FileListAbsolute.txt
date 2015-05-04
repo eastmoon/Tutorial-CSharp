@@ -1,0 +1,6 @@
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-Collections\Tutorial-Collections\bin\Debug\Tutorial-Collections.exe.config
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-Collections\Tutorial-Collections\bin\Debug\Tutorial-Collections.exe
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-Collections\Tutorial-Collections\bin\Debug\Tutorial-Collections.pdb
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-Collections\Tutorial-Collections\obj\Debug\Tutorial-Collections.csprojResolveAssemblyReference.cache
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-Collections\Tutorial-Collections\obj\Debug\Tutorial-Collections.exe
+C:\Users\EastMoon\Google 雲端硬碟\GameRuleArchiture\CSharp\0. Program\Tutorial-Collections\Tutorial-Collections\obj\Debug\Tutorial-Collections.pdb
